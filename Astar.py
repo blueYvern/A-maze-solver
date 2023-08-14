@@ -1,3 +1,6 @@
+# A* algorithm
+
+
 from queue import PriorityQueue
 
 #Fetches all of the possible paths for a cell in the maze grid as per the given maze path_map
